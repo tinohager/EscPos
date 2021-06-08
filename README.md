@@ -12,6 +12,5 @@ My research of Projects for ESC in the .NET environment.
 | PrinterUtility | source not available | [nuget](https://www.nuget.org/packages/PrinterUtility/1.2.0) |
 | Ding.Printer.EscPos | [gitee](https://gitee.com/xingchensoft/DC.Framework/tree/develop/src/Ding.Printer.EscPos) | [nuget](https://www.nuget.org/packages/Ding.Printer.EscPos) |
 | Gerene.DFe.EscPos | [github](https://github.com/marcosgerene/Gerene.DFe.EscPos) | [nuget](https://www.nuget.org/packages/Gerene.DFe.EscPos) |
-| Gerene.DFe.EscPos | [github](https://github.com/marcosgerene/Gerene.DFe.EscPos) | [nuget](https://www.nuget.org/packages/Gerene.DFe.EscPos) |
 | Vip.Printer | [github](https://github.com/leandrovip/Vip.Printer) | [nuget](https://www.nuget.org/packages/Vip.Printer) |
 
