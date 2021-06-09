@@ -14,3 +14,7 @@ My research of Projects for ESC in the .NET environment.
 | Gerene.DFe.EscPos | [github](https://github.com/marcosgerene/Gerene.DFe.EscPos) | [nuget](https://www.nuget.org/packages/Gerene.DFe.EscPos) |
 | Vip.Printer | [github](https://github.com/leandrovip/Vip.Printer) | [nuget](https://www.nuget.org/packages/Vip.Printer) |
 
+## Virtual Printers for testing
+
+https://github.com/amaurycannesson/escpos-tools (docker container, html output)
+https://play.google.com/store/apps/details?id=pl.glpro.virtualthermalprinter (Android app)
